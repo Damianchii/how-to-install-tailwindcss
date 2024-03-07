@@ -65,6 +65,7 @@ npm run start
     <img src="https://skillicons.dev/icons?i=vite" />
   </a>
 </p>
+
 ## Create app via Vite
 Same situation as above new folder use "project name" instead "."
 ```bash
